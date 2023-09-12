@@ -13,19 +13,25 @@ The idea came up with the mosquito terminator game on pysource.com 😉
 This is the Computer Vision Game developed by myself. </br>
 The game consists of zombies and angels flying in the center of the screen. Every time you swat a zombie you get 1 point and every time you swat an angel you lose 1 point. In case you swat multiple zombies, you will get multiple points; the same applies to swatting angels. Everything must be done within a certain number of seconds. This is the image of the Game.'
 </br>
+
 ![image](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/0b58801e-6ea4-4031-af73-991212b95d48)
+
 </br>
 The game integrated tracking of the movements of the body with OpenCV. For the tracking of the hand gesture, which will be the joypad of our game, I used MediaPipe.
 MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official [MediaPipe Hands guide](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
+
 </br>
+
 <img width="950" alt="hand-landmarks" src="https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/3b511d80-141e-4331-b9bf-682ae466a362">
-</br>
+
+<br>
+
 <img decoding="async" width="300" height="564" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif" alt="Computer Vision Game MediaPipe hand" class="wp-image-20248" title="Computer Vision Game MediaPipe hand">
 
 
 ## How to run the game
 Clone the project and install all the needed packages, to run the game following command line:
-</br>
+<br>
     ```
     $ python main.py
     ```
