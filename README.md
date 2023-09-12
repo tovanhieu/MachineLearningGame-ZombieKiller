@@ -21,9 +21,6 @@ MediaPipe is a library deveploped by google ready to use and for multiple functi
 <img decoding="async" loading="lazy" width="300" height="564" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif" alt="Computer Vision Game MediaPipe hand" class="wp-image-20248" title="Computer Vision Game MediaPipe hand">
 
 
-
-
-
 ## How to run the game
 Clone the project and install all the needed packages, to run the game following command line:
 </br>
