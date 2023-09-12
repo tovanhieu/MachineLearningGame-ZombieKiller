@@ -16,11 +16,11 @@ The game consists of zombies and angels flying in the center of the screen. Ever
 ![image](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/0b58801e-6ea4-4031-af73-991212b95d48)
 </br>
 The game integrated tracking of the movements of the body with OpenCV. For the tracking of the hand gesture, which will be the joypad of our game, I used MediaPipe.
-MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official [MediaPipe Hands guide]
-</br>(https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
+MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official [MediaPipe Hands guide (https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
+</br>
 <img width="950" alt="hand-landmarks" src="https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/3b511d80-141e-4331-b9bf-682ae466a362">
 </br>
-<img decoding="async" loading="lazy" width="300" height="564" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif" alt="Computer Vision Game MediaPipe hand" class="wp-image-20248" title="Computer Vision Game MediaPipe hand">
+<img decoding="async" width="300" height="564" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif" alt="Computer Vision Game MediaPipe hand" class="wp-image-20248" title="Computer Vision Game MediaPipe hand">
 
 
 ## How to run the game
