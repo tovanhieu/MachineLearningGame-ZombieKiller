@@ -18,7 +18,7 @@ The game integrated tracking of the movements of the body with OpenCV. For the t
 MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official [MediaPipe Hands guide](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
 <img width="950" alt="hand-landmarks" src="https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/3b511d80-141e-4331-b9bf-682ae466a362">
 </br>
-<img width="900" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif">
+<img decoding="async" loading="lazy" width="300" height="564" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif" alt="Computer Vision Game MediaPipe hand" class="wp-image-20248" title="Computer Vision Game MediaPipe hand">
 
 
 
