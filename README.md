@@ -24,6 +24,6 @@ Depend on your purpose and idea, the game can be developed some features in the 
 1. **Two players at one time**
 2. **Create more levels with correspond screen**
 3. **Set a target score for each level if the player could not reach the score the game have to reset to the first level**
-4. ...ect...
+4. ...etc...
 ## Summury
-Hope you have a wonderfull time with my project, enjoy it and don't forget to drop me a star🌟 on my repo in github 😊
+Hope you have a wonderfull time with my project, enjoy it and don't forget to follow and drop me a star🌟 on my repo in github 😊
