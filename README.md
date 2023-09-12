@@ -20,7 +20,7 @@ MediaPipe is a library deveploped by google ready to use and for multiple functi
 </br>
 <img width="950" alt="hand-landmarks" src="https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/3b511d80-141e-4331-b9bf-682ae466a362">
 <br>
-<img width="300" height="564" src="https://pysource.com/wp-content/uploads/2021/08/hand_tracking_3d_android_gpu.gif" alt="Computer Vision Game MediaPipe hand" title="Computer Vision Game MediaPipe hand">
+<img data-target="animated-image.replacedImage" alt="mqlrf-s6x16" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif" style="display: block; opacity: 1;">
 
 
 ## How to run the game
