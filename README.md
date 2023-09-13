@@ -1,5 +1,4 @@
-# MachineLearningGame-ZombieKiller 🧟
-### Creator: Hieu - Toni
+# MachineLearningGame-ZombieKiller 🧟 Creator: Hieu (Toni)
 
 [![Python](https://img.shields.io/badge/python-3.11.4-blue)]
 [![Pygame Library](https://img.shields.io/badge/pygame-2.4.0-green)]
