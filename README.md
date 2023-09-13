@@ -22,6 +22,7 @@ The game consists of zombies and angels flying in the center of the screen. Ever
 ![Screenshot 2023-09-13 091258](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/ae13e30d-8693-4196-b55a-722cb85b4d77)
 
 </br>
+
 The game integrated tracking of the movements of the body with OpenCV. For the tracking of the hand gesture, which will be the joypad of our game, I used MediaPipe.
 MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official ![MediaPipe Hands guide ](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
 </br>
