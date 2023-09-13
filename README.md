@@ -1,6 +1,7 @@
 # MachineLearningGame-ZombieKiller 🧟 Creator: Hieu (Toni)
 ### Python packages needed for the Game project
-**Install all of the pakages bellow by using pip or pip3**
+*Install all of the pakages bellow by using pip or pip3*
+</br>
 </br>
 [![Python](https://img.shields.io/badge/python-3.11.4-blue)]
 [![Pygame Library](https://img.shields.io/badge/pygame-2.4.0-green)]
