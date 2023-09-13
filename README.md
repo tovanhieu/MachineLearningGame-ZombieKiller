@@ -14,7 +14,11 @@ This is the Computer Vision Game developed by myself. </br>
 The game consists of zombies and angels flying in the center of the screen. Every time you swat a zombie you get 1 point and every time you swat an angel you lose 1 point. In case you swat multiple zombies, you will get multiple points; the same applies to swatting angels. Everything must be done within a certain number of seconds. This is the image of the Game.'
 </br>
 ![image](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/0b58801e-6ea4-4031-af73-991212b95d48)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3E2SpyltsHA?si=t5W9r7zbyVvnGJme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</br>
+Game demo:
+</br>
+{% include youtube.html id="3E2SpyltsHA" %} 
+[Final video of fixing issues in your code in VS Code](https://www.youtube.com/watch?v=JLMbpiywVxQ)
 </br>
 The game integrated tracking of the movements of the body with OpenCV. For the tracking of the hand gesture, which will be the joypad of our game, I used MediaPipe.
 MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official [MediaPipe Hands guide](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
