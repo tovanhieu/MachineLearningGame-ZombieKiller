@@ -13,6 +13,7 @@ The idea came up with the mosquito terminator game on pysource.com 😉
 This is the Computer Vision Game developed by myself. </br>
 The game consists of zombies and angels flying in the center of the screen. Every time you swat a zombie you get 1 point and every time you swat an angel you lose 1 point. In case you swat multiple zombies, you will get multiple points; the same applies to swatting angels. Everything must be done within a certain number of seconds. This is the image of the Game.'
 </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3E2SpyltsHA?si=t5W9r7zbyVvnGJme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![image](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/0b58801e-6ea4-4031-af73-991212b95d48)
 </br>
 The game integrated tracking of the movements of the body with OpenCV. For the tracking of the hand gesture, which will be the joypad of our game, I used MediaPipe.
