@@ -16,9 +16,8 @@ The game consists of zombies and angels flying in the center of the screen. Ever
 </br>
 ![image](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/0b58801e-6ea4-4031-af73-991212b95d48)
 </br>
-### Game demo:
+#### Game demo:
 </br>
-
 [Video game demo on Youtube](https://www.youtube.com/watch?v=3E2SpyltsHA)
 </br>
 ![Screenshot 2023-09-13 091258](https://github.com/tovanhieu/MachineLearningGame-ZombieKiller/assets/26000753/ae13e30d-8693-4196-b55a-722cb85b4d77)
