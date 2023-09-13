@@ -17,8 +17,7 @@ The game consists of zombies and angels flying in the center of the screen. Ever
 </br>
 Game demo:
 </br>
-{% include youtube.html id="3E2SpyltsHA" %} 
-[![BVideo game demo]](https://i9.ytimg.com/vi_webp/3E2SpyltsHA/mqdefault.webp?v=65011b5e&sqp=CIzXhKgG&rs=AOn4CLAN_ueSswPnHJw_yPvZQhyhh9is2A)](https://www.youtube.com/watch?v=3E2SpyltsHA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3E2SpyltsHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </br>
 The game integrated tracking of the movements of the body with OpenCV. For the tracking of the hand gesture, which will be the joypad of our game, I used MediaPipe.
 MediaPipe is a library deveploped by google ready to use and for multiple functions, for my project, just a few commands are enough and we manage to have 21 points of the hand. If you want more details on hand tracking I suggest you read the official [MediaPipe Hands guide](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
