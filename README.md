@@ -47,4 +47,4 @@ Depend on your purpose and idea, the game can be developed some features in the 
 3. **Set a target score for each level if the player could not reach the score the game have to reset to the first level**
 4. ...etc...
 ## Summury
-Hope you have a wonderful time with my project, enjoy it and don't forget to follow me and drop star🌟 on my repo in github 😊
+Hope you have a wonderful time with my project, enjoy it and don't forget to follow me and drop stars 🌟 on my repo in github 😊
